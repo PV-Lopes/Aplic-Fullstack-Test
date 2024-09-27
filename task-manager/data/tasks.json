@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Estudar JavaScript",
+      "description": "Estudar conceitos",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Terminar o projeto",
+      "description": "Finalizar o projeto de gerenciador de tarefas usando Node.js e Express.",
+      "completed": false
+    }
+  ]
+  
